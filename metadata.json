@@ -1,0 +1,8 @@
+{
+  "name": "Copy of FolioFusion",
+  "description": "A dynamic, interactive portfolio ecosystem featuring real-time filtering, skill visualizations, and an AI-powered hidden terminal.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
